@@ -1,4 +1,4 @@
-## Hi kibru Michael 👋
+## Hi,  I’m Kibru Michael 👋
 ## I’m a data analyst 
 
 - 🔭 I’m currently working on PowerBi Developer
