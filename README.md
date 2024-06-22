@@ -40,3 +40,16 @@
 [instagram]: https://instagram.com/bradgarropy
 [linkedin]: https://linkedin.com/in/bradgarropy
 [npm]: https://npmjs.com/~bradgarropy
+
+
+
+[![DataSciencePortfolio](https://img.shields.io/badge/DataSciencePortfolio-Visit-0e76a8)](https://www.datascienceportfol.io/kibrumichael)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kibru-assefa-06191b113)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@kibrumic_38180)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-brightgreen)](https://www.upwork.com/freelancers/~011af3d0007001b5bd)
+[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-View-red)](https://lookerstudio.google.com/reporting/b5a29bf0-72bc-44b5-af89-3ea87fee23e7)
+[![KoboToolbox](https://img.shields.io/badge/KoboToolbox-Access-blue)](https://ee.kobotoolbox.org/x/qEghiBcq)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com/@kibru1289?si=Gi2SYRMpHZJO5u0N)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-3b5998)](https://www.facebook.com/g.mankom/)
+
+
