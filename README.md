@@ -1,7 +1,7 @@
 ## Hi,  I’m Kibru Michael 👋
 ## I’m a data analyst 
 
-- 🔭 I’m currently working on PowerBi Developer
+- 🔭 I’m currently working as PowerBi Developer
   
 
 
