@@ -25,6 +25,19 @@
 - 📹 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/@Kibru.Michael12)
 
 
+# Contact Me
+
+📧 Email: kibrumic@gmail.com 
+📞 Phone: +1234567890  
+🌐 Website: [www.yourwebsite.com](https://www.yourwebsite.com)  
+📝 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kibrumichael)
+
+---
+
+## How to Reach Out
+
+Feel free to contact me via email or phone for any inquiries. You can also connect with me on LinkedIn. Looking forward to hearing from you!
+
 
 
 
