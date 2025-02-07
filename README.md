@@ -20,7 +20,7 @@
 - 🏡 [![DataSciencePortfolio](https://img.shields.io/badge/DataSciencePortfolio-Visit-0e76a8)](https://www.datascienceportfol.io/kibrumichael)
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kibrumichael)
 - ✍️ [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@kibrumic_38180)
-- 📊 [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-View-red)]
+- 📊 [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-View-red)
 - 📋 [![KoboToolbox](https://img.shields.io/badge/KoboToolbox-Access-blue)](https://ee.kobotoolbox.org/x/qEghiBcq)
 - 📹 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/@Kibru.Michael12)
 
