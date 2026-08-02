@@ -30,7 +30,7 @@
   
 ## Contact Me
 
-📧 **Email:** kibrumic@gmail.com &nbsp;&nbsp; | &nbsp;&nbsp; 📞 **Phone:** +1234567890 &nbsp;&nbsp; | &nbsp;&nbsp; 🌐 **Website:** ((https://kibru-portifolio.netlify.app/)] &nbsp;&nbsp; | &nbsp;&nbsp; 
+📧 **Email:** kibrumic@gmail.com &nbsp;&nbsp; | &nbsp;&nbsp; 📞 **Phone:** +1234567890 &nbsp;&nbsp; | &nbsp;&nbsp; 🌐 **Website:** https://kibru-portifolio.netlify.app &nbsp;&nbsp; | &nbsp;&nbsp; 
 
 <div align="left">
 
